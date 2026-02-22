@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Yhanna Priester
+title: Yhanna Priester
 ---
 
 ## About Me
