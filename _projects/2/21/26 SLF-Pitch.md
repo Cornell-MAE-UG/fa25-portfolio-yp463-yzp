@@ -82,7 +82,7 @@ New York State Integrated Pest Management, 2026.
 ### **Purpose:**  
 The purpose of our group creating a functional prototype was to vet our design and make sure it actually functioned as intended. We needed to figure out what components/materials we needed and how to assemble them. This is especially important for designs that have moving parts and precise tolerances. Not only did our design have to work, but it also had to deliver consistent results over multiple uses. To do this, we tested various aspects of our design and documented our process. The documentation is key to recording the results of our tests, as well as keeping record of our assembly parts and process to help us with later steps in the design process.
 
-### **Design Tests**  
+### **Design Tests and Results**  
 
 
 **1. Rotation test**  
@@ -130,7 +130,19 @@ noticed that as weight was added, the gap between the base and the dividers marg
 lowering friction and making rotation occur more smoothly (but also implying increased water
 leakage). Second, we noticed that if our design is used in such a way where only one out of three
 sections is filled with mixture at a given time, this unevenly distributed weight will cause the base
-to tilt down at an angle, greatly inhibiting water retention and structural integrity. Last, we noticed that the numeric limit to functionality of rotation of our cylinder fell at approximately 2.0 kg. Any weight beyond this caused greatly angled deflection of the base.
+to tilt down at an angle, greatly inhibiting water retention and structural integrity.   
+
+Last, we noticed that the numeric limit to functionality of rotation of our cylinder fell at approximately 2.0 kg. Any weight beyond this caused greatly angled deflection of the base. These results have important design implications. The first observation, regarding the widening
+gap between the dividers and the base, indicated that a support system beneath the base is quite
+necessary — the shaft collar and press fit between the shaft and base is not sufficient to vertically
+support the load. This was not a surprise or concern, as our design already accounts for placing
+bolts under the base — we were just not able to incorporate them into this prototype due to
+tolerancing issues. The second observation will ideally also be resolved
+by this solution, as the vertical support provided by the bolts will prevent the observed angled
+deflection. However, we also plan to explore optimizing our design so that two out of three
+sections can be filled and filtered simultaneously — which would not only increase efficiency, but
+help limit the observed angled deflection due to more even distribution of loading.
+
 
 
 
