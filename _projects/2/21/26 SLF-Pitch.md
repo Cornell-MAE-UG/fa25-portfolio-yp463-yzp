@@ -1,21 +1,21 @@
 ---
 layout: project
-title: Open Design Project Pitch
-description: Sales Pitch
-technologies: [N/A]
+title: Open Design Project
 image: /assets/images/photos/spotted-lanternfly.jpg
 ---
 
 For my Introduction to Mechanical Design class, we were asked to work in small teams to come up with a mechanism to contribute to the fight against an invasive insect in North America called spotted lanterfly (SLF). We were tasked with designing a device that could aid the grape juice and wine industries specifically, as SLF are particularly drawn to grape vines and often contaminate grape harvests. For this project, we collaborated with real clients and got insights from grape growers as well as entomologists. After coming up with a rudimentary design for our mechanism, my team had to pitch our idea to our clients. 
 
-## **Client Pitch** {.header}
-## **Wine Grape Post-Harvest Filtration** {.subheader}  
+## **Client Pitch**
+
+
+### **Wine Grape Post-Harvest Filtration** 
 
 **Clients:** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
 **Team Name:** Trees of Doom  
 
-## **Spotted Lanternfly Grape Harvest Contamination** {.subheader}  
+### **Spotted Lanternfly Grape Harvest Contamination**  
 
 Spotted lanterflies (SLF) damage grape vines and also end up in the harvested mixture. SLF
 contamination is of critical concern for New York State grape farmers, as federal regulation holds
@@ -28,7 +28,7 @@ harvest batches due to foreign matter presence decreases New York state vineyard
 yields and profits.**
 
 
-## **Proposed Solution: mechanical filter to remove the SLF post-harvest** {.subheader}  
+### **Proposed Solution: mechanical filter to remove the SLF post-harvest** 
 
 We propose to use water to separate grapes from SLF based on density (grapes sink, SLF float).
 This would be accomplished via a two-sided strainer with a mechanism to remove SLF off the
@@ -48,14 +48,14 @@ any SLF.
 vines before harvest when they can return).
 
 
-## **Key Risks / Unknowns** {.subheader}
+### **Key Risks / Unknowns** 
 - SLF and grapes getting crushed during harvest could affect their densities (and therefore
 buoyancy and filtration).
 - Our filter would ideally match the pace of the harvesting process. This introduces design and
 manufacturing complexities and also requires that vineyards have space to house the filter.
 
 
-## **Questions for the Client** {.subheader}
+### **Questions for the Client** 
 1. How crushed are SLF after the grapes have been harvested? Are they mostly intact or are
 they often split into small pieces such as legs and wing fragments?
 2. Our idea is based on the assumption that SLF float in water and grapes sink. Is this generally
@@ -63,6 +63,13 @@ true, and is the density of SLF approximately the same across all of their body 
 3. What is a typical grape/grape juice ratio after the grapes become crushed post-harvest?
 
 
+### References and Figures
+\[1\] Bekelja, K. and Russo, J. ”MAE 2250 - Spotted Lanternfly Presentation,” Cornell IPM and
+New York State Integrated Pest Management, 2026.
+
+
+(/assets/images/photos/spotted-lanternfly.jpg)
+#### *Figure 1: Prototype schematic of the proposed buoyancy-based spotted lanternfly filter.*
+
+
 [Download our pitch]({{ "assets/images/pdfs/TreesofDoom_ClientOutline.pdf" | relative_url }}) in PDF format.
-
-
