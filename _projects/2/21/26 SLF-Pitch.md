@@ -20,8 +20,8 @@ For my Introduction to Mechanical Design class, we were asked to work in small t
 Spotted lanterflies (SLF) damage grape vines and also end up in the harvested mixture. SLF
 contamination is of critical concern for New York State grape farmers, as federal regulation holds
 that more than 0.1% foreign matter in harvested grape batches results in entire 22-ton batches of
-harvest being rejected [1]. Contamination is tested in 1000g samples, and SLF weigh 0.5-1.0g each,
-the presence of just 1-2 bugs in a batch is potentially detrimental [1]. An initial study found that
+harvest being rejected \[1\]. Contamination is tested in 1000g samples, and SLF weigh 0.5-1.0g each,
+the presence of just 1-2 bugs in a batch is potentially detrimental \[1\]. An initial study found that
 on average, 60% of SLF present on vines were picked up by the mechanical harvester, leading to,
 on average, 289 SLF per batch—far greater than the allowable amount. **The rejection of grape
 harvest batches due to foreign matter presence decreases New York state vineyard
