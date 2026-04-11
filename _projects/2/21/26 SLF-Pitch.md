@@ -68,8 +68,8 @@ true, and is the density of SLF approximately the same across all of their body 
 New York State Integrated Pest Management, 2026.
 
 
-(/assets/images/photos/spotted-lanternfly.jpg)
-#### *Figure 1: Prototype schematic of the proposed buoyancy-based spotted lanternfly filter.*
+![Figure 1](/assets/images/photos/spotted-lanternfly.jpg)
+*Figure 1: Prototype schematic of the proposed buoyancy-based spotted lanternfly filter.*
 
 
 [Download our pitch]({{ "assets/images/pdfs/TreesofDoom_ClientOutline.pdf" | relative_url }}) in PDF format.
