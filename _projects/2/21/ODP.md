@@ -9,7 +9,8 @@ For my Introduction to Mechanical Design class, we were asked to work in small t
 After that, we built a mock-up of our design. This allowed us to better visualize our idea and get a sense of what issues might come up. We tweaked our initial idea a bit to improve the efficacy of our design and address concerns we had based on the feedback and our own observations.  
 Next, we created a [functional prototype](#functional-prototype) and documented our process.
 
-## **Client Pitch** {#client-pitch}
+
+## **Client Pitch**
 
 
 ### **Wine Grape Post-Harvest Filtration** 
@@ -78,7 +79,7 @@ New York State Integrated Pest Management, 2026.
 [Download our pitch]({{ "assets/images/pdfs/TreesofDoom_ClientOutline.pdf" | relative_url }}) in PDF format.
 
 
-## **Functional Prototype** {#functional-prototype}
+## **Functional Prototype**
 
 ### **Purpose:**  
 The purpose of our group creating a functional prototype was to vet our design and make sure it actually functioned as intended. We needed to figure out what components/materials we needed and how to assemble them. This is especially important for designs that have moving parts and precise tolerances. Not only did our design have to work, but it also had to deliver consistent results over multiple uses. To do this, we tested various aspects of our design and documented our process. The documentation is key to recording the results of our tests, as well as keeping record of our assembly parts and process to help us with later steps in the design process.
