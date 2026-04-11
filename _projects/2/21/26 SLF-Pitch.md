@@ -4,9 +4,11 @@ title: Open Design Project
 image: /assets/images/photos/spotted-lanternfly.jpg
 ---
 
-For my Introduction to Mechanical Design class, we were asked to work in small teams to come up with a mechanism to contribute to the fight against an invasive insect in North America called spotted lanterfly (SLF). We were tasked with designing a device that could aid the grape juice and wine industries specifically, as SLF are particularly drawn to grape vines and often contaminate grape harvests. For this project, we collaborated with real clients and got insights from grape growers as well as entomologists. After coming up with a rudimentary design for our mechanism, my team had to pitch our idea to our clients. 
+For my Introduction to Mechanical Design class, we were asked to work in small teams to come up with a mechanism to contribute to the fight against an invasive insect in North America called spotted lanterfly (SLF) as a part of our **Open Design Project**. We were tasked with designing a device that could aid the grape juice and wine industries specifically, as SLF are particularly drawn to grape vines and often contaminate grape harvests. For this project, we collaborated with real clients and gained insights from grape growers as well as entomologists. After coming up with a rudimentary design for our mechanism, my team created a [client pitch](#client-pitch) and recieved feedback from the experts.  
+After that, we built a mock-up of our design. This allowed us to better visualize our idea and get a sense of what issues might come up. We tweaked our initial idea a bit to improve the efficacy of our design and address concerns we had based on the feedback and our own observations.  
+Next, we created a [functional prototype](functional-prototype) and documented our process.
 
-## **Client Pitch**
+## **Client Pitch** {#client-pitch}
 
 
 ### **Wine Grape Post-Harvest Filtration** 
@@ -73,3 +75,62 @@ New York State Integrated Pest Management, 2026.
 
 
 [Download our pitch]({{ "assets/images/pdfs/TreesofDoom_ClientOutline.pdf" | relative_url }}) in PDF format.
+
+
+## **Functional Prototype** {#functional-prototype}
+
+### **Purpose:**  
+The purpose of our group creating a functional prototype was to vet our design and make sure it actually functioned as intended. We needed to figure out what components/materials we needed and how to assemble them. This is especially important for designs that have moving parts and precise tolerances. Not only did our design have to work, but it also had to deliver consistent results over multiple uses. To do this, we tested various aspects of our design and documented our process. The documentation is key to recording the results of our tests, as well as keeping record of our assembly parts and process to help us with later steps in the design process.
+
+### **Design Tests**  
+
+
+**1. Rotation test**  
+
+This test was meant to assess the ability of the handle, shaft, and base components to rotate freely
+beneath the divider of the cylinder. It was performed by rotating the shaft using the handle and
+observing the smoothness and ease of motion of the base. Success criteria for this test was that the
+base would be able to be rotated using a non-strenuous amount of force from a human hand at the
+handle, and that the mesh would not noticeably interfere with the dividers upon rotation.
+The results of this test were informative. First, we observed smooth rotation of the base when low
+to moderate force was applied to the handle, indicating effective tolerancing on the interface
+between the base and cylinder to limit friction. Second, however, we noticed that the edges of the
+mesh, particularly the epoxy connections, momentarily jammed rotation when they passed under
+the dividers.  
+
+For the next iteration, to resolve this, we plan to create an indentation in the base for the mesh to
+rest within, allowing the top of the mesh to sit at the same height as the rest of the base and pass
+under the divider without impeding rotation.
+
+
+**2. Water retention test**
+This test was meant to check the seal and water retention of the cylinder and base. It was
+performed by filling the cylinder with water for 15 minutes and observing leaks in the points of
+connection in the cylinder. 
+
+The results of this test were also informative. The test showed us that the prototype was very
+poorly sealed, such that the volume of water drained out within two minutes. However, we
+noticed that some points of connection were better sealed than others. The diameter of the base
+was tightly connected with the cylinder; most of the leaking came through the connection points
+between the dividers and the base.  
+
+We plan to resolve this issue by better developing a seal system between the dividers and the
+base. Specifically, we will purchase rubber flaps from McMaster to attach to the bottoms of the
+dividers, sealing the gap and reducing leakage.
+
+**3. Weight test** 
+
+This test was performed to test the strength of our base, cylinder, and rotation system in
+functioning under increased loads. It was performed by adding weights to the base in ~550g
+increments, observing any physical deformation in our design, and rotating
+the handle and making note of ease of rotation.  
+
+The test provided valuable insight as to how our design functions under increased loads. First, we
+noticed that as weight was added, the gap between the base and the dividers marginally increased,
+lowering friction and making rotation occur more smoothly (but also implying increased water
+leakage). Second, we noticed that if our design is used in such a way where only one out of three
+sections is filled with mixture at a given time, this unevenly distributed weight will cause the base
+to tilt down at an angle, greatly inhibiting water retention and structural integrity. Last, we noticed that the numeric limit to functionality of rotation of our cylinder fell at approximately 2.0 kg. Any weight beyond this caused greatly angled deflection of the base.
+
+
+
