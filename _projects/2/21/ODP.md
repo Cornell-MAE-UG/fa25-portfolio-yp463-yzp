@@ -5,9 +5,12 @@ image: /assets/images/photos/spotted-lanternfly.jpg
 technologies: N/A
 ---
 
-For my Introduction to Mechanical Design class, we were asked to work in small teams to come up with a mechanism to contribute to the fight against an invasive insect in North America called spotted lanterfly (SLF) as a part of our **Open Design Project**. We were tasked with designing a device that could aid the grape juice and wine industries specifically, as SLF are particularly drawn to grape vines and often contaminate grape harvests. For this project, we collaborated with real clients and gained insights from grape growers as well as entomologists. After coming up with a rudimentary design for our mechanism, my team created a [client pitch](#client-pitch) and recieved feedback from the experts.  
-After that, we built a mock-up of our design. This allowed us to better visualize our idea and get a sense of what issues might come up. We tweaked our initial idea a bit to improve the efficacy of our design and address concerns we had based on the feedback and our own observations.  
-Next, we created a [functional prototype](#functional-prototype) and documented our process. 
+For my Introduction to Mechanical Design class, we were asked to work in small teams to come up with a mechanism to contribute to the fight against an invasive insect in North America called spotted lanterfly (SLF) as a part of our **Open Design Project**. We were tasked with designing a device that could aid the grape juice and wine industries specifically, as SLF are particularly drawn to grape vines and often contaminate grape harvests. For this project, we collaborated with real clients and gained insights from grape growers as well as entomologists. After coming up with a rudimentary design for our mechanism, my team created a [client pitch](#client-pitch) and recieved feedback from the experts.   
+
+After that, we built a mock-up of our design. This allowed us to better visualize our idea and get a sense of what issues might come up. We tweaked our initial idea a bit to improve the efficacy of our design and address concerns we had based on the feedback and our own observations.   
+
+Next, we created a [functional prototype](#functional-prototype) and documented our process.  
+
 Finally, we created a [client report](#client-report) summarizing our proposed solution, how it works,as well as our conclusions and recommendations.
 
 
@@ -73,7 +76,8 @@ true, and is the density of SLF approximately the same across all of their body 
 New York State Integrated Pest Management, 2026.
 
 
-![Figure 1](assets/images/photos/slf-pitch-diagram.png)
+
+![Figure 1]({{ "/assets/images/photos/slf-pitch-diagram.png" | relative_url }})
 *Figure 1: Prototype schematic of the proposed buoyancy-based spotted lanternfly filter.*
 
 
