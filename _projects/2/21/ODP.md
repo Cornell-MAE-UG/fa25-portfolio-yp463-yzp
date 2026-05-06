@@ -77,7 +77,7 @@ New York State Integrated Pest Management, 2026.
 
 
 
-![Figure 1]({{ "/assets/images/photos/slf-pitch-diagram.png" | relative_url }}){width=50%}
+![Figure 1]({{ "/assets/images/photos/slf-pitch-diagram.png" | relative_url }}){:width="50%"}
 *Figure 1: Prototype schematic of the proposed buoyancy-based spotted lanternfly filter.*
 
 
@@ -155,7 +155,7 @@ help limit the observed angled deflection due to more even distribution of loadi
 
 ### **Final Prototype and Application** 
 
-![Final Prototype]({{ "/assets/images/photos/ODP_Final_Prototype.jpg" | relative_url }}){width="90%"}
+![Final Prototype]({{ "/assets/images/photos/ODP_Final_Prototype.jpg" | relative_url }}){:width="90%"}
 
 Trees of Doom has developed a small-scale mechanical filter to remove SLF from harvested mixture
 post-harvest. Unlike preventative methods, removal at this stage ensures that SLF are removed
@@ -176,7 +176,7 @@ components can be separated. First, the grape juice is filtered out as the mixtu
 the mesh base section. Then, SLF and grapes are separated with the addition of water, as SLF
 float while grapes sink. Finally, the water is filtered out and the untarnished grapes are collected. 
 
-![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){width="35%"}
+![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){:width="35%"}
 
 ### **Conclusions and Recommendations**  
 
