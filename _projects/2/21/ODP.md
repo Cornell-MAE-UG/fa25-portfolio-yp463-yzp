@@ -183,7 +183,7 @@ components can be separated. First, the grape juice is filtered out as the mixtu
 the mesh base section. Then, SLF and grapes are separated with the addition of water, as SLF
 float while grapes sink. Finally, the water is filtered out and the untarnished grapes are collected. 
 
-![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){:width="35%"} 
+![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){:width="50%"} 
 
 
 ### **Conclusions and Recommendations**  
