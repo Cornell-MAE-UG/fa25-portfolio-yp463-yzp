@@ -155,7 +155,7 @@ help limit the observed angled deflection due to more even distribution of loadi
 
 ### **Final Prototype and Application** 
 
-![Final Prototype](/assets/images/photos/ODP_Final_Prototype.jpg)
+![Final Prototype]({{ "/assets/images/photos/ODP_Final_Prototype.jpg" | relative_url }})
 Trees of Doom has developed a small-scale mechanical filter to remove SLF from harvested mixture
 post-harvest. Unlike preventative methods, removal at this stage ensures that SLF are removed
 for good. Our prototype allows the user to strain out the juice from harvest and then use water
@@ -166,15 +166,16 @@ Our verdict is that the fundamental mechanism of our design functions as intende
 its on scalability make it best suited for use on small-scale organic vineyards and empirical testing
 should still be conducted with real grapes and SLF to validate effectiveness. 
  
-![Design Exterior](/assets/images/photos/ODP_Exterior_Drawing.jpg)
-![Design Interior](/assets/images/photos/ODP_interior_drawing.png)
+
+![[Design Exterior]({{ "/assets/images/photos/ODP_Exterior_Drawing.jpg" | relative_url }})
+![Design Interior]({{ "/assets/images/photos/ODP_interior_drawing.png" | relative_url }})
 The harvested grape juice, grapes, and SLF mixture can be poured into one of the tri-sections
 of the cylinder, and the base is rotated in a sequence (shown below) such that the three mixture
 components can be separated. First, the grape juice is filtered out as the mixture is poured over
 the mesh base section. Then, SLF and grapes are separated with the addition of water, as SLF
 float while grapes sink. Finally, the water is filtered out and the untarnished grapes are collected. 
 
-![Instructional Diagram](/assets/images/photos/ODP_instructions.jpg)
+![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }})
 
 ### **Conclusions and Recommendations**  
 
