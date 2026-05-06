@@ -7,7 +7,8 @@ technologies: N/A
 
 For my Introduction to Mechanical Design class, we were asked to work in small teams to come up with a mechanism to contribute to the fight against an invasive insect in North America called spotted lanterfly (SLF) as a part of our **Open Design Project**. We were tasked with designing a device that could aid the grape juice and wine industries specifically, as SLF are particularly drawn to grape vines and often contaminate grape harvests. For this project, we collaborated with real clients and gained insights from grape growers as well as entomologists. After coming up with a rudimentary design for our mechanism, my team created a [client pitch](#client-pitch) and recieved feedback from the experts.  
 After that, we built a mock-up of our design. This allowed us to better visualize our idea and get a sense of what issues might come up. We tweaked our initial idea a bit to improve the efficacy of our design and address concerns we had based on the feedback and our own observations.  
-Next, we created a [functional prototype](#functional-prototype) and documented our process.
+Next, we created a [functional prototype](#functional-prototype) and documented our process. 
+Finally, we created a [client report](#client-report) summarizing our proposed solution, how it works,as well as our conclusions and recommendations.
 
 
 ## **Client Pitch**
@@ -68,11 +69,11 @@ true, and is the density of SLF approximately the same across all of their body 
 
 
 ### References and Figures
-\[1\] Bekelja, K. and Russo, J. ”MAE 2250 - Spotted Lanternfly Presentation,” Cornell IPM and
+\[1\] Bekelja, K. and Russo, J. "MAE 2250 - Spotted Lanternfly Presentation," Cornell IPM and
 New York State Integrated Pest Management, 2026.
 
 
-![Figure 1](/assets/images/photos/slf-pitch-diagram.png)
+![Figure 1](assets/images/photos/slf-pitch-diagram.png)
 *Figure 1: Prototype schematic of the proposed buoyancy-based spotted lanternfly filter.*
 
 
@@ -144,6 +145,58 @@ by this solution, as the vertical support provided by the bolts will prevent the
 deflection. However, we also plan to explore optimizing our design so that two out of three
 sections can be filled and filtered simultaneously — which would not only increase efficiency, but
 help limit the observed angled deflection due to more even distribution of loading.
+
+## **Client Report**
+
+
+### **Final Prototype and Application** 
+
+![Final Prototype](/assets/images/photos/ODP_Final_Prototype.jpg)
+Trees of Doom has developed a small-scale mechanical filter to remove SLF from harvested mixture
+post-harvest. Unlike preventative methods, removal at this stage ensures that SLF are removed
+for good. Our prototype allows the user to strain out the juice from harvest and then use water
+density separation to isolate and remove SLF from solid mass. The design requires no electrical
+power and features food-safe bearings and a robust design, making it cheap and durable.
+We conducted a variety of tests to assess the viability of our prototype for continued development.
+Our verdict is that the fundamental mechanism of our design functions as intended; however, lim-
+its on scalability make it best suited for use on small-scale organic vineyards and empirical testing
+should still be conducted with real grapes and SLF to validate effectiveness. 
+ 
+![Design Exterior](/assets/images/photos/ODP_Exterior_Drawing.jpg)
+![Design Interior](/assets/images/photos/ODP_interior_drawing.png)
+The harvested grape juice, grapes, and SLF mixture can be poured into one of the tri-sections
+of the cylinder, and the base is rotated in a sequence (shown below) such that the three mixture
+components can be separated. First, the grape juice is filtered out as the mixture is poured over
+the mesh base section. Then, SLF and grapes are separated with the addition of water, as SLF
+float while grapes sink. Finally, the water is filtered out and the untarnished grapes are collected. 
+
+![Instructional Diagram](/assets/images/photos/ODP_instructions.jpg)
+
+### **Conclusions and Recommendations**  
+
+Based on our prototyping and testing, we conclude that filtering grapes and SLF based on density
+is feasible, but further research is needed to assess the reliability of the density difference and to
+refine the success criterion for particle separation. Additionally, real-world implementation would
+likely be limited in scale and impractical for large commercial harvesting applications.
+However, a moderately scaled-up version of the prototype may be useful for small-batch vineyards.
+At this scale, grape batches weigh approximately 1 ton, occupying roughly 1 m3, and would require
+a cylinder of 2 m height and 0.4 m radius. In this case, a torque of ∼ 600 N·m would be required
+to rotate the device at a constant rate. At 3 RPM (minimum speed to process a 1-ton load within
+3 minutes), this corresponds to ∼ 188 W—an achievable power output for a single human. 
+
+Thus, the power required for the device’s operation at the small-batch vineyards is well-within the
+power within a human’s comfortable power threshold. It would also be aligned with the produced-
+by-hand ethos of small-batch vineyards. Moreover, the device is cost-effective. Our prototype cost a
+total of $140, and we estimate a maximum cost of $1000 for the small-batch vineyard scaled version.
+For larger vineyards, however, several scaling problems come up. The increased harvest loads
+(approximately 22 tons) would preclude manual device operation and require a powerful motor.
+Additionally, the prototype would require redesign to support the massive load while allowing for
+smooth rotation and preventing leakage. Last, vast batches may prevent SLF and grapes from fully
+undergoing the density separation our device relies upon.
+Thus, we recommend limiting implementation of our device to small-scale vineyards, and suggest
+further research into methods for preventing leakage without impeding rotation and the reliability
+of SLF-grape density difference.
+
 
 
 
