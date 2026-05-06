@@ -77,7 +77,9 @@ New York State Integrated Pest Management, 2026.
 
 
 
-![Figure 1]({{ "/assets/images/photos/slf-pitch-diagram.png" | relative_url }}){:width="50%"}
+![Figure 1]({{ "/assets/images/photos/slf-pitch-diagram.png" | relative_url }}){:width="50%"} 
+
+
 *Figure 1: Prototype schematic of the proposed buoyancy-based spotted lanternfly filter.*
 
 
@@ -153,7 +155,9 @@ help limit the observed angled deflection due to more even distribution of loadi
 ## **Client Report**
 
 
-### **Final Prototype and Application** 
+### **Final Prototype and Application**  
+ 
+
 
 ![Final Prototype]({{ "/assets/images/photos/ODP_Final_Prototype.jpg" | relative_url }}){:width="90%"}
 
@@ -168,15 +172,19 @@ its on scalability make it best suited for use on small-scale organic vineyards 
 should still be conducted with real grapes and SLF to validate effectiveness. 
  
 
-![Design Exterior]({{ "/assets/images/photos/ODP_Exterior_Drawing.jpg" | relative_url }}){width="50%}
-![Design Interior]({{ "/assets/images/photos/ODP_interior_drawing.png" | relative_url }}){width="50%}
+![Design Exterior]({{ "/assets/images/photos/ODP_Exterior_Drawing.jpg" | relative_url }}){:width="50%} 
+
+![Design Interior]({{ "/assets/images/photos/ODP_interior_drawing.png" | relative_url }}){:width="50%} 
+ 
+
 The harvested grape juice, grapes, and SLF mixture can be poured into one of the tri-sections
 of the cylinder, and the base is rotated in a sequence (shown below) such that the three mixture
 components can be separated. First, the grape juice is filtered out as the mixture is poured over
 the mesh base section. Then, SLF and grapes are separated with the addition of water, as SLF
 float while grapes sink. Finally, the water is filtered out and the untarnished grapes are collected. 
 
-![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){:width="35%"}
+![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){:width="35%"} 
+
 
 ### **Conclusions and Recommendations**  
 
