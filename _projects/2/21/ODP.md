@@ -172,9 +172,9 @@ its on scalability make it best suited for use on small-scale organic vineyards 
 should still be conducted with real grapes and SLF to validate effectiveness. 
  
 
-![Design Exterior]({{ "/assets/images/photos/ODP_Exterior_Drawing.jpg" | relative_url }}){:width="50%} 
+![Design Exterior]({{ "/assets/images/photos/ODP_Exterior_Drawing.jpg" | relative_url }}){:width="40%} 
 
-![Design Interior]({{ "/assets/images/photos/ODP_interior_drawing.png" | relative_url }}){:width="50%} 
+![Design Interior]({{ "/assets/images/photos/ODP_interior_drawing.png" | relative_url }}){:width="40%} 
  
 
 The harvested grape juice, grapes, and SLF mixture can be poured into one of the tri-sections
