@@ -172,9 +172,8 @@ its on scalability make it best suited for use on small-scale organic vineyards 
 should still be conducted with real grapes and SLF to validate effectiveness. 
  
 
-![Design Exterior]({{ "/assets/images/photos/ODP_Exterior_Drawing.jpg" | relative_url }}){:width="40%} 
-
-![Design Interior]({{ "/assets/images/photos/ODP_interior_drawing.png" | relative_url }}){:width="40%} 
+![Design Exterior]({{ "/assets/images/photos/ODP_Exterior_Drawing.jpg" | relative_url }}){:width="30%} 
+![Design Interior]({{ "/assets/images/photos/ODP_interior_drawing.png" | relative_url }}){:width="30%} 
  
 
 The harvested grape juice, grapes, and SLF mixture can be poured into one of the tri-sections
@@ -183,7 +182,7 @@ components can be separated. First, the grape juice is filtered out as the mixtu
 the mesh base section. Then, SLF and grapes are separated with the addition of water, as SLF
 float while grapes sink. Finally, the water is filtered out and the untarnished grapes are collected. 
 
-![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){:width="50%"} 
+![Instructional Diagram]({{ "/assets/images/photos/ODP_instructions.jpg" | relative_url }}){:width="70%"} 
 
 
 ### **Conclusions and Recommendations**  
